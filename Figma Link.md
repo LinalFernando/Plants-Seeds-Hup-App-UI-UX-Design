@@ -1,4 +1,4 @@
-Preview Link
+[Preview Link]
 -------------
 [https://www.figma.com/file/KcTJNPtGsn2JWvyMhBg7iO/Plants-%26-Seeds-Hub-App-Prototype?type=design&node-id=0%3A1&mode=design&t=UxufNXBkyQjxtyGl-1
 ](url)
